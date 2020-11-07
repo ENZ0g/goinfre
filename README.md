@@ -1,6 +1,6 @@
 # goinfre
 
-To start using: clone the repo in the folder in your account (for example ~/), move to this folder and:
+To start using: clone the repo in the folder in your account (for example ~/), `cd` to this folder and:
 
 ```shell
 chmod +x install.sh; ./install.sh
